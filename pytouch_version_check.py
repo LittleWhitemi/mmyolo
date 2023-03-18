@@ -11,3 +11,5 @@ print(torch.cuda.get_device_name(0))
 
 print(torch.cuda.current_device())
 # 返回当前设备索引；
+ 
+print('hellow')
